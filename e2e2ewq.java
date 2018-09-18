@@ -1,0 +1,7 @@
+
+public class e2e2ewq {
+	public static void main(String[] args) {
+		System.out.println("2322323");
+	}
+
+}
